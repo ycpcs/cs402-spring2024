@@ -1,0 +1,12 @@
+name: ""
+description: ""
+
+url: "https://ycpcs.github.io/cs402-spring2024"
+
+
+kramdown:
+    input: GFM
+    hard_wrap: false
+gems:
+    - jekyll-coffeescript
+    - jekyll-paginate

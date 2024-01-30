@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>{{ page.course_number }} - {{ page.title }}</title>
+		<link rel="stylesheet" href="{{ site.url }}/css/site.css" />
+		<link rel="stylesheet" href="{{ site.url }}/css/syntax.css" />
+	</head>
+
+	<body>
+		<div class="pageheader">
+			<h1><a href="{{ site.url }}">{{ page.course_number }}</a>: {{ page.title }}</h1>
+		</div>
+		<div class="content">
+		{{ content }}
+		</div>
+
+		<div class="footer">
+			<a href="{{ site.url }}/README.html">Copyright (c) 2005-2024</a> | Projects are being developed under copyright.  Contact the instructors before using any material |
+			<a class="cc-img" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+		</div>
+	</body>
+</html>

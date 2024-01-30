@@ -1,0 +1,7 @@
+*.swp
+.DS_Store
+/.idea
+~*.xls
+~*.xlsx
+~*.doc
+~*.docx
