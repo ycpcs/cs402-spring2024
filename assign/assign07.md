@@ -23,7 +23,7 @@ We **strongly encourage** you to make an appointment and visit the [Writing Cent
 
 ### Presentation Guidelines
 
-Each project team will give a presentation of about 75-90 minutes.  Larger teams (with multiple sub-teams) will likely run longer.  There may also be an extensive question and answer period.  All presentations need to be limited to less than two hours (including the question and answer period).
+Each project team will give a presentation of about 60-75 minutes.  Larger teams (with multiple sub-teams) will likely run longer.  There may also be an extensive question and answer period.  All presentations need to be limited to less than two hours (including the question and answer period).
 
 You should use presentation software such as PowerPoint or Google Slides for your presentation. Your slides should contain brief bulleted points and graphics that provide overall context for your bullet points. Slides should not be a "wall of text", and please avoid reading your slides or a prepared script.
 
@@ -41,7 +41,7 @@ Don't get too bogged down in details. As with any form of technical communicatio
 
 Here is a suggested structure for your presentation:
 
-1.  Background: What problem were you trying to solve? Discuss the state of the project at the begining of the Fall, and the new/modified system requirements that you addressed.  Show a diagram of your overall system architecture, how the pieces fit together and interact, and how data flows between them.
+1.  Background: What problem were you trying to solve? Discuss the state of the project at the begining of the semester and the new/modified system requirements that you addressed.  Show a diagram of your overall system architecture, how the pieces fit together and interact, and how data flows between them.
 
 2.  Analysis and design: Discuss your design model. In this part of the presentation, you must show a UML class diagram illustrating the most important classes and methods in your system, and how they relate/interact with each other. Please use multiple UML diagrams if a single diagram would have too many classes.  You must also show your Database Schema, and show how your tables interact with your classes.  You may also use multiple slides for your datbase schema for clarity.  This is also a good opportunity to discuss how the design of the system changed as you worked on the implementation.
 	
@@ -53,7 +53,7 @@ Here is a suggested structure for your presentation:
 
 6.  Discuss your automated test framework, and demonstrate it in action.
 
-7.  Future Work: Since most teams are working on multi-semester/multi-year projects, describe the state of the project as it will be for the incoming team in the Spring.  Also, show that the future work you present is captured as issues in your issue tracker.  Many of you may be resuming work on the same project in the Spring, and there could be new students joining the project.
+7.  Future Work: Since most teams are working on multi-semester/multi-year projects, describe the state of the project as it will be for the incoming team in the next Semester.  Also, show that the future work you present is captured as issues in your issue tracker.  Some of you could be resuming work on the same project next semester, and there will be new students joining the project.
 
 8.  Conclusions: Sum up what you accomplished and what you learned, particularly for underclassmen. If there are aspects of the project you would do differently if you started again from scratch, mention them. You can also talk about how you might want to extend the system in the future.
 
