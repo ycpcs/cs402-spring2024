@@ -8,7 +8,7 @@ This is the assignment schedule for the Spring 2024 CS402 Privilege Walk Project
 
 **Assignment** | **Due**
 :--------------|:---------
-[Assignment 1: Individual Proposal and Wishlit](../../assign/assign01.html)| Wednesday, Feb, 7th by 11:00am (prior to class)
+[Assignment 1: Individual Proposal and Wish List](../../assign/assign01.html)| Wednesday, Feb, 7th by 11:00am (prior to class)
 [Assignment 2: Weekly Journal Updates](../../assign/assign02.html)<br>[Assignment 2: Team Stand-Up Meetings](../../assign/assign02.html) | Every Wednesday by 11:00am (prior to class): Updated on Google Drive<br> Wednesdays: Stand-Up Meetings presented during class period
 [Assignment 3: Project Proposal, Detailed Design, and Schedule](../../assign/assign03.html) | Wednesday, Feb 21st by 11:00am: (prior to class): Presentation during class period
 [Assignment 4: Milestone 1](../../assign/assign04.html) | Wednesday, Mar 13th: Milestone 1 Presentation and Demo during class period<br>Friday, Mar 15th by Noon: Mid-Term Peer Evals due
