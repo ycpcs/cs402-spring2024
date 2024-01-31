@@ -29,9 +29,7 @@ Here are links to two descriptions of the Privilege Walk exercise:
 
 This is the third year for the Privilege Walk project, with a faculty member from the York College Psychology program serving as your client [Dr. Randi Shedlosky](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/shedlosky-shoemaker-randi.php).  You will find the initial project requirements [here](PrivilegeWalkApplicationDescription.pdf).
 
-You will be continuing development of this project, building upon the accomplishments of this past Fall's CS Capstone I (CS400) team.  Your general task is to **finish** the project.
-
-It is expected that this will be last semester for this project as a Capstone project.  The goal is to deliver the final version of the Privilege Walk application.
+You will be continuing development of this project, building upon the accomplishments of this past Fall's CS Capstone I (CS400) team.  Your general task is to **finish** the project.  It is expected that this will be last semester for this project as a Capstone project.  The goal is to deliver the final version of the Privilege Walk application.
 
 ## News
 <!-- Commenting out specific Privilege Walk News until it's needed - and the dates could change, anyway
