@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS400
+course_number: CS402
 title: Final Working System, Presentation, Report, and Final Peer Evaluations
 ---
 
@@ -15,7 +15,7 @@ This is a **Team** assignment.
 
 # Your Task
 
-Your task is to complete a final report documenting your project, and to give a presentation on the project.
+Your task is to complete a final technical report documenting your project, and to give a final presentation on the project.
 
 **Our expectations for the report are described in the [Final Report Details](finalreport.html) document.**
 
@@ -23,9 +23,9 @@ We **strongly encourage** you to make an appointment and visit the [Writing Cent
 
 ### Presentation Guidelines
 
-Each project team will give a presentation of about 60 to 75 minutes.  Larger teams (with multiple sub-teams) will likely run longer.  There may also be an extensive question and answer period.  All presentations need to be limited to less than two hours (including the question and answer period).
+Each project team will give a presentation of about 75-90 minutes.  Larger teams (with multiple sub-teams) will likely run longer.  There may also be an extensive question and answer period.  All presentations need to be limited to less than two hours (including the question and answer period).
 
-You should use some presentation software such as PowerPoint or Google Slides for your presentation. Your slides should contain brief bulleted points and graphics that provide overall context for your bullet points. Slides should not be a "wall of text", and please avoid reading your slides or a prepared script.
+You should use presentation software such as PowerPoint or Google Slides for your presentation. Your slides should contain brief bulleted points and graphics that provide overall context for your bullet points. Slides should not be a "wall of text", and please avoid reading your slides or a prepared script.
 
 **NOTE:** You will have already submitted your draft technical report **before** your final milestone presentation.  You can leverage the draft report contents for the figures, diagrams, pictures, screen captures, etc that will appear in your presentation.
 
@@ -35,9 +35,9 @@ Keep in mind that the audience for your presentation consists of students and fa
 
 Don't get too bogged down in details. As with any form of technical communication, you want to emphasize the most important and interesting information. Provide supporting details if they are necessary, but otherwise try to keep the presentation at a fairly high level.
 
-**Here is an excellent example of an integrated, multi-team CS400 Final Presentation:** [CS400 Fall 2022 Radio Telescope Final Presentation](../projects/CS400-Fa22-RT-FinalPresentation.pdf).
+**Here is an excellent example of an integrated, multi-team CS400 Final Presentation:** [Radio Telescope Fa22 Final Presentation](../projects/CS400-Fa22-RT-FinalPresentation.pdf).
 
-**Here is an excellent example of an integrated, multi-team, multi-disciplinary Capstone (CS402/ECE402/ME402) final presentation:** [Radio Telescope Sp23 Final Presentation](../projects/Capstone-Sp22-RT-FinalPresentation.pdf).
+**Here is an excellent example of an integrated, multi-team, multi-disciplinary Capstone (CS402/ECE402/ME402) final presentation:** [Radio Telescope Sp22 Final Presentation](../projects/Capstone-Sp22-RT-FinalPresentation.pdf).
 
 Here is a suggested structure for your presentation:
 
