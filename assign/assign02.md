@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS402
-title: Weekly Journals, Progress Reports, and Demos
+title: Weekly Journals, Stand-Up Meetings, and Demos
 ---
 
 **Due: [See Assignment Schedule](../schedule.html)**
