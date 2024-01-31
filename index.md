@@ -6,13 +6,14 @@ title: CS Capstone II
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS402: CS Capstone II
-
-## Spring 2024
+## CS402: CS Capstone II - Spring 2024
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-This is the website for CS 402 (CS Capstone II) Spring 2024 at [York College of Pennsylvania](http://www.ycp.edu) .  All information related to the course will be posted here.
+This is the website for CS402 (CS Capstone II) Spring 2024 at [York College of Pennsylvania](http://www.ycp.edu) .  All information related to the course will be posted here.
+
+## THIS WEBSITE IS STILL UNDER CONSTRUCTION
+-------------------------------------------
 
 Here are the links for the CS Capstone II projects for Spring 2024:
 
@@ -52,13 +53,19 @@ Here are the links for the CS Capstone II projects for Spring 2024:
 
 * 10-18-23: Milestone 1 Presentations: Privilege Walk, Monday, 10-23-23; YCPHacks, Wednesday, 10-25-23; RevMetrix, Friday 10-27-23.
 
--->
+
 
 * 1-29-24: All of the Project Milestone assignments and the Final Report assignment have been posted to the respective projects.  Please review your project's assignment schedule for the assignment descriptions and the due dates.
 
-* 1-29-24: The due dates for each of your projects' [Detailed Proposal and Design] (assign01)](./assign/assign01.html) have been posted.  Check your respective project page for details.
+* 1-29-24: The due dates for each of your project's[Detailed Proposal and Design] (assign03)](./assign/assign03.html) have been posted.  Check your respective project page for details.
 
-* 1-26-24: All students in CS402 will be returning to their respecive projects from CS400 this past Fall 2023.
+* 1-29-24: The due dates for your [Individual Proposal and Wish List (assign01)](./assign/assign01.html) have been posted.  Check your respective project page for details.
+
+
+
+-->
+
+* 1-26-24: All students in CS402 will be returning to their respective projects from CS400 this past Fall Semester 2023.
 
 * 1-26-24: CS402 meets on M-W-F from 11:00a to 12:15p.  Each project team will meet on a weekly basis in KEC 119 for stand ups, and assignment and Milestone presentations the follwing week days: the RevMetrix team will meet on Mondays, the Privilege Walka nd YCPHacks will meet on Wednesdays.  The remaining two weekly class sessions for each team will be reserved for team project work days in KEC 118.  Friday will be a common day for all teams, when we might also provide general instruction, as well as specifci input for the RevMetrix team as their clients.
 
