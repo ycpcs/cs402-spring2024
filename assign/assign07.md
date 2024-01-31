@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS402
-title: Final Working System, Presentation, Report, and Final Peer Evaluations
+title: Final Presentation and Demo (Final Peer Evals)
 ---
 
 **Due (see your project schedule):**
