@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RevMetrix Pin Entry</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .row {
+            display: flex;
+            justify-content: center;
+        }
+
+        .circle {
+            width: 30px;
+            height: 30px;
+            border: 2px solid black;
+            border-radius: 50%;
+            margin: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .firstSquare {
+            width: 30px;
+            height: 30px;
+            border: 2px solid black;
+            margin: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .secondSquare {
+            width: 30px;
+            height: 30px;
+            border: 2px solid black;
+            margin: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .gutterSquare {
+            width: 30px;
+            height: 30px;
+            border: 2px solid black;
+            margin: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            font-size: 28px;
+            font-weight: bold;
+        }
+		
+        .foulSquare {
+            width: 30px;
+            height: 30px;
+            border: 2px solid black;
+            margin: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .strikeSquare {
+            width: 30px;
+            height: 30px;
+            border: 2px solid black;
+            margin: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .spareSquare {
+            width: 30px;
+            height: 30px;
+            border: 2px solid black;
+            margin: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            font-size: 28px;
+            font-weight: bold;
+        }
+       .firstSquare::before {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }		
+		
+        .secondSquare::before {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+       .gutterSquare::before {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+       .foulSquare::before {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }		
+
+       .strikeSquare::before {
+/*            content: 'X';   */
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }		
+
+        .spareSquare::before {
+/*            content: '/';  */
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+		
+        .circle.active {
+            background-color: black;
+            color: white;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="circle" onclick="toggleCircle(this)"><span>7</span></div>
+            <div class="circle" onclick="toggleCircle(this)"><span>8</span></div>
+            <div class="circle" onclick="toggleCircle(this)"><span>9</span></div>
+            <div class="circle" onclick="toggleCircle(this)"><span>10</span></div>
+        </div>
+        <div class="row">
+            <div class="circle" onclick="toggleCircle(this)"><span>4</span></div>
+            <div class="circle" onclick="toggleCircle(this)"><span>5</span></div>
+            <div class="circle" onclick="toggleCircle(this)"><span>6</span></div>
+        </div>
+        <div class="row">
+            <div class="circle" onclick="toggleCircle(this)"><span>2</span></div>
+            <div class="circle" onclick="toggleCircle(this)"><span>3</span></div>
+        </div>
+        <div class="row">
+            <div class="circle" onclick="toggleCircle(this)"><span>1</span></div>
+        </div>
+        <div class="row">
+            <div class="firstSquare" ><span> </span></div>
+            <div class="secondSquare" ><span> </span></div>
+		</div>
+        <div class="row">
+            <div class="foulSquare" onclick="setFoul()"><span>F</span></div>
+			<div class="gutterSquare" onclick="setAllPinsStanding()"><span>-</span></div>
+            <div class="strikeSquare" onclick="setSecondSquareStrike()"><span>X</span></div>
+			<div class="spareSquare" onclick="setSecondSquareSpare()"><span>/</span></div>
+        </div>
+		<div class="row">
+			<input type="Submit" name="submit" value="<<<< Previous Frame" onclick="toggleAllCircles()">
+			<input type="Submit" name="submit" value="<< Previous Shot" onclick="toggleAllCircles()">
+			<input type="Submit" name="submit" value="Next Shot >>" onClick="toggleShot>()">
+			<input type="Submit" name="submit" value="Next Frame >>>>" onclick="toggleAllCircles()">
+        </div>
+    </div>
+
+    <script>
+		let pinCount = 0;		// initialize intermediate pin count
+		
+        function toggleCircle(circle) {
+            circle.classList.toggle("active");
+        }
+		
+        function toggleCircle(circle) {
+			// Toggle the class of the clicked circle
+            circle.classList.toggle("active");
+
+            // Count the number of inactive circles (pins knocked down)
+            const inactiveCircles = document.querySelectorAll('.circle:not(.active)');
+			
+			// Update pinCount with the # of pins knocked down (inactive)
+            pinCount = inactiveCircles.length;
+			
+			// Output pinCount to console (for testing)
+            console.log("Pin count: " + pinCount);
+			
+			// update firstSquare w/pinCount
+			document.querySelector('.firstSquare span').textContent = pinCount;
+		}
+    </script>
+</body>
+</html>
