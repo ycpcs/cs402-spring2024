@@ -73,7 +73,7 @@ Here is a set of raw data from an actual bowling session.  There are two version
 
 * 2-16-24: Posted a link to the RevMetrix Bowler User Interface Requirements.
 
-* 2-5-24: [Assign03: Detailed Project Proposal Design and Schedule](.../../assign/assign03.html) is due before class (with presentation in class) on Monday, 2-19-24.
+* 2-5-24: [Assign03: Detailed Project Proposal Design and Schedule](../../assign/assign03.html) is due before class (with presentation in class) on Monday, 2-19-24.
 
 * 1-26-24: [Assign01: Individual Proposal and Wish List](../../assign/assign01.html) is due before class (with presentation in class) on Monday, 2-5-24.
 
