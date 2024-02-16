@@ -69,7 +69,13 @@ Here is a set of raw data from an actual bowling session.  There are two version
 
 -->
 
-* 2-16-24: Posted a link to a JavaScript prototype of the Shot Entry Page to give you a basic idea of user workflow and functionality.  This is **by no means** quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  it should hoeer, give you an idea of how the user will enter the results of each shot.
+* 2-16-24: Posted a link to a JavaScript prototype of the Shot Entry Page to give you a basic idea of user workflow and functionality.  This is **by no means** quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  it should however, give you an idea of how the user will enter the results for each shot.
+
+* 2-16-24: Posted a link to the RevMetrix Bowler User Interface Requirements.
+
+* 2-5-24: [Assign03: Detailed Project Proposal Design and Schedule](./assign/assign03.html) is due before class (with presentation in class) on Monday, 2-19-24.
+
+* 1-26-24: [Assign01: Individual Proposal and Wish List](./assign/assign01.html) is due before class (with presentation in class) on Monday, 2-5-24.
 
 * 1-26-24: Links for Professor Hake's RevMetrix research (both MEng ESci thesis and Final Presentation) have been posted above.  We will discuss which sections are directly relevant for this semester's work.
 
