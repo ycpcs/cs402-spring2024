@@ -19,8 +19,8 @@ This is the web page for the RevMetrix Project for CS 400 Fall 2023 at [York Col
 * [CS400-Fa23 Website](../../index.html)
 * [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
-* [Prototype Shot Entry Page](https://ycpcs.github.io/cs320-spring2024/projects/RevMetrix-Bowler-UI-Shot-Entry.html)
-* [RevMetrix Bowler UI Requirements](https://ycpcs.github.io/cs320-spring2024/projects/RevMetrix.html)
+* [Prototype Shot Entry Page](RevMetrix-Bowler-UI-Shot-Entry.html)
+* [RevMetrix Bowler UI Requirements](RevMetrix.html)
 
 
 ## RevMetrix Project Description
@@ -73,9 +73,9 @@ Here is a set of raw data from an actual bowling session.  There are two version
 
 * 2-16-24: Posted a link to the RevMetrix Bowler User Interface Requirements.
 
-* 2-5-24: [Assign03: Detailed Project Proposal Design and Schedule](./assign/assign03.html) is due before class (with presentation in class) on Monday, 2-19-24.
+* 2-5-24: [Assign03: Detailed Project Proposal Design and Schedule](.../../assign/assign03.html) is due before class (with presentation in class) on Monday, 2-19-24.
 
-* 1-26-24: [Assign01: Individual Proposal and Wish List](./assign/assign01.html) is due before class (with presentation in class) on Monday, 2-5-24.
+* 1-26-24: [Assign01: Individual Proposal and Wish List](../../assign/assign01.html) is due before class (with presentation in class) on Monday, 2-5-24.
 
 * 1-26-24: Links for Professor Hake's RevMetrix research (both MEng ESci thesis and Final Presentation) have been posted above.  We will discuss which sections are directly relevant for this semester's work.
 
