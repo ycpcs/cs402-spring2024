@@ -1,5 +1,6 @@
 ---
 layout: default
+course_number: CS402 (RevMetrix)
 title: "Project: RevMetrix Bowler User Interface"
 ---
 
