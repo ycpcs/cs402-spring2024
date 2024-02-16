@@ -19,7 +19,7 @@ This is the web page for the RevMetrix Project for CS 400 Fall 2023 at [York Col
 * [CS400-Fa23 Website](../../index.html)
 * [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
-* [Prototype Shot Entry Page](https://ycpcs.github.io/cs320-spring2024/projects/RevMetrix-Bowler-UI-Shot-Entry.html
+* [Prototype Shot Entry Page](https://ycpcs.github.io/cs320-spring2024/projects/RevMetrix-Bowler-UI-Shot-Entry.html)
 
 
 ## RevMetrix Project Description
