@@ -19,11 +19,14 @@ This is the web page for the RevMetrix Project for CS 400 Fall 2023 at [York Col
 * [CS400-Fa23 Website](../../index.html)
 * [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
-* [Prototype Shot Entry Page](RevMetrix-Bowler-UI-Shot-Entry.html)
-* [RevMetrix Bowler UI Requirements](RevMetrix.html)
-
 
 ## RevMetrix Project Description
+
+
+* Here is the description for the [RevMetrix Bowler UI Requirements](RevMetrix.html).  It does **NOT** cover the Research User Interface.
+
+* Here is a [Prototype Shot Entry Page](RevMetrix-Bowler-UI-Shot-Entry.html) to give you a basic idea of user workflow and functionality.  This is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  it should however, give you an idea of how the user will enter the results for each shot.
+
 Here are links to the previous research that Professor Hake conducted as part of his Master's Theses.
 
 [RevMetrix MEng ESci Thesis](Hake-MEngESci-Masters-Thesis.pdf)
