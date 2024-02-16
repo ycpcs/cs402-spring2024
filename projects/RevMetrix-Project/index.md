@@ -1,7 +1,7 @@
 ---
 layout: default
-course_number: CS400
-title: CS Capstone I (RevMetrix Project)
+course_number: CS402
+title: CS Capstone II (RevMetrix Project)
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
@@ -20,6 +20,7 @@ This is the web page for the RevMetrix Project for CS 400 Fall 2023 at [York Col
 * [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
 * [Prototype Shot Entry Page](https://ycpcs.github.io/cs320-spring2024/projects/RevMetrix-Bowler-UI-Shot-Entry.html)
+* [RevMetrix Bowler UI Requirements](https://ycpcs.github.io/cs320-spring2024/projects/RevMetrix.html)
 
 
 ## RevMetrix Project Description
@@ -68,6 +69,8 @@ Here is a set of raw data from an actual bowling session.  There are two version
 
 -->
 
-* 8-27-23: Links for Professor Hake's RevMetrix research (both MEng ESci thesis and Final Presentation) have been posted above.  We will discuss which sections are directly relevant for this semester's work.
+* 2-16-24: Posted a link to a JavaScript prototype of the Shot Entry Page to give you a basic idea of user workflow and functionality.  This is **by no means** quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  it should hoeer, give you an idea of how the user will enter the results of each shot.
+
+* 1-26-24: Links for Professor Hake's RevMetrix research (both MEng ESci thesis and Final Presentation) have been posted above.  We will discuss which sections are directly relevant for this semester's work.
 
 [General CS400 Fall 2023 News](../../index.html)
