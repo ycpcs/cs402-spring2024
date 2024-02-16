@@ -1,0 +1,41 @@
+	User must be able to enter their pin counts on a shot-by-shot basis
+	Pin counts will be entered using a replica of the pin layout, which is an inverted equilateral triangle, with rows 4-3-2-1, with pins numbered from right-to-left within rows, starting with the bottom row (1 pin).
+	Each pin in the pin layout can toggle between white w/black number and black w/white number.
+    User will roll a ball, and then record the number of pins remaining by pressing the corresponding pins on the pin layout.  
+	If the User bowls a strike (knocks down all of the pins on the first shot), they will press the Strike ('X') button to renter a strike
+	
+    If there are pins remaining after the first shot, the user selects the pins remaining.
+	As the user indicates the pins remaining, the score for the first shot is then shown in the "First Shot" box.  The score for the first shot can be calculated from 10 - # of pins remaining.
+	
+	After the User has completed entering the first shot (strike or pins remaining), they press the "Next Shot" button, which records the data from the first shot, and brings up the next shot.
+	
+	If the bowler threw a strike, the next frame starts (meaning that the user will be rolling the first shot of the next frame.
+	If there were pins remaining after the first shot, the bowler advance to the second shot fro the current frame.
+	
+	The second shot starts with the remaining pins still marked
+	User rolls the ball again, in an attempt to convert the spare (knock down all remaining pins).
+	If the user converts the spare (no pins remaining after the second shot), they press the Spare button '/'.
+	If there are pins remaining after the second shot, the user toggles the pins that they knocked down, so that only the pins remaining after the second shot are still marked.
+	As the user toggles the pins, the score for the second shot is updated in "Second Shot" box
+	
+
+
+The RevMetrix Bowler User Interface (UI) will allow the bowler to keep track of all of their bowling activity.  The UI will enable them to record their bowling performance on a shot-by-shot basis.
+
+There is a good deal of information associated
+
+A bowler can participate in various types of "Events": practice, leagues, tournaments.
+
+They will roll a number of games during each event.
+
+Within each game there are 10 frames (well, the 10th frame is special, more on that later).
+
+Within each frame, there are 2 shots - considered the first ball and the second ball.
+
+The 10th frame is special in that it can have up to 3 shots.  If the bowler throws a strike on the first ball of the 10th frame, they get two more shots.  If they convert a spare in the first two shots of the 10th frame, they get another shot.  It is possible for the bowler to roll 3 strikes in the 10th frame (thus looking like 3 frames, rather than one).  It is also possible for the bowler to roll a strike, followed by a spare, or a spare followed by a strike - thus looking like two frames in the 10th frame.
+
+At its most basic level, the RevMetrix Bowler UI is going to keep track of each shot - the basic unit within the data that is going to be collected and processed.
+	
+	
+	
+	
