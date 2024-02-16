@@ -107,5 +107,5 @@ The bowler will be able to retrieve a wide array of statistics from the Games th
 -	**AND SO MUCH MORE...**
 
 <div class="callout">
-**NOTE: These requirements are subject to change, at the whim of you pesky clients...  :-) **
+**NOTE: These requirements are subject to change, at the whim of your pesky clients...  :-) **
 </div>
