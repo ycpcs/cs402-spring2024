@@ -28,11 +28,7 @@ You will be continuing development of the RevMetrix Project, building upon the i
 
 Your basic goals for the semester are to:
 
-*	Develop a functional RevMetrix **Bowler** User Interface (RMxB-UI) that allows for bowler input to be collected, stored, retrieved, and displayed, utilizing the RevMetrix User Back-End Database (RMxB-DB). The RMxB-UI is a multi-platform phone application.  If the cross-platform development tools support it, a Windows PC version of the RMxB-UI application would also be useful (but not a high priority).
-
-Here is the description for the [RevMetrix Bowler UI Requirements](RevMetrix.html).  It does **NOT** cover the Research User Interface.
-
-* Here is a [Prototype Shot Entry Page](RevMetrix-Bowler-UI-Shot-Entry.html) to give you a basic idea of user workflow and functionality.  This is a prototype.  It is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  It should however, give you an idea of how the user will enter the results for each shot.
+*	Develop a functional RevMetrix **Bowler** User Interface (RMxB-UI) that allows for bowler input to be collected, stored, retrieved, and displayed, utilizing the RevMetrix User Back-End Database (RMxB-DB). The RMxB-UI is a multi-platform phone application.  If the cross-platform development tools support it, a Windows PC version of the RMxB-UI application would also be useful (but not a high priority).  Here is the description for the [RevMetrix Bowler UI Requirements](RevMetrix.html).  It does **NOT** cover the Research User Interface.  And here is a [Prototype Shot Entry Page](RevMetrix-Bowler-UI-Shot-Entry.html) to give you a basic idea of user workflow and functionality.  This is a prototype.  It is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  It should however, give you an idea of how the user will enter the results for each shot.
 
 *	Develop a similar functional RevMetrix **Research** User Interface (RmxR-UI) that allows for research data input to be collected, stored, retrieved, and displayed, utilizing the RevMetrix Research Back-End Database (RMxR-DB). The RMxR-UI will be a Windows laptop touchscreen application.  The data stored in the RMxR-DB will be a superset of the data stored in the RMxB-DB.
 
