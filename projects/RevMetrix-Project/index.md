@@ -89,6 +89,8 @@ Here is a set of raw data from an actual bowling session.  There are two version
 
 -->
 
+* 2-18-24: Posted the basic requirements for the RevMetrix Project for this semester.
+
 * 2-16-24: Posted a link to a JavaScript prototype of the Shot Entry Page to give you a basic idea of user workflow and functionality.  This is a prototype.  It is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  It should however, give you an idea of how the user will enter the results for each shot.
 
 * 2-16-24: Posted a link to the RevMetrix Bowler User Interface Requirements.
