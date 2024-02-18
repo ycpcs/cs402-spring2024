@@ -22,7 +22,7 @@ This is the web page for the Privilege Walk Project for CS402 Fall 2024 at [York
 
 ## Privilege Walk Project Description
 
-You will be continuing development of this project, building upon the accomplishments from the [Privilege Walk Capstone I (CS400) Team from Fall 2023](https://ycpcs.github.io/cs400-fall2023/Privilege-Walk-Project).  Your general task is to **finish** the project.  It is expected that this will be the last semester as a Capstone project.  The goal is to deliver the final version of the Privilege Walk application.
+You will be continuing development of this project, building upon the accomplishments from the [Privilege Walk Capstone I (CS400) Team from Fall 2023](https://ycpcs.github.io/cs400-fall2023/projects/Privilege-Walk-Project).  Your general task is to **finish** the project.  It is expected that this will be the last semester as a Capstone project.  The goal is to deliver the final version of the Privilege Walk application.
 
 The Privilege Walk exercise demonstrates how your specific collection of characteristics, aspects, and events in your life can accelerate or hinder your progress and achievments in life, relative to other people with a different collection of those charactersitics, aspects, and events.  It is intended to initiate and facilitate a meaningful dialog on impacts of privilege, diversity, and inclusion among various groups of people.
 

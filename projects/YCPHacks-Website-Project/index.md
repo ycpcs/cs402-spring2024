@@ -12,7 +12,7 @@ title: CS Capstone II (YCPHacks Website Project)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-This is the web page for the YCPHacks Website Project for CS 402 Spring 2024 at [York College of Pennsylvania](http://www.ycp.edu).  All information specifically related to the YCP Hacks Website Project will be posted here.
+This is the web page for the YCPHacks Website Project for CS402 Spring 2024 at [York College of Pennsylvania](http://www.ycp.edu).  All information specifically related to the YCP Hacks Website Project will be posted here.
 
 ## Links
 
@@ -22,7 +22,7 @@ This is the web page for the YCPHacks Website Project for CS 402 Spring 2024 at 
 
 ## YCPHacks Project Description
 
-You will be continuing development of this project, building upon the accomplishments from the [YCPHacks Capstone I (CS400) Team from Fall 2023](https://ycpcs.github.io/cs400-fall2023/YCPHacks-Project).
+You will be continuing development of this project, building upon the accomplishments from the [YCPHacks Capstone I (CS400) Team from Fall 2023](https://ycpcs.github.io/cs400-fall2023/projects/YCPHacks-Website-Project).
 
 The goal for this semester is to deliver a functional website for the Fall 2024 YCPHacks Hackathon that includes User Registration, as well as administrative tools, notifications, and inventory management.  It is **NOT** expected that this will be the last year for YCPHacks Website development, but this Spring's team should aim to deliver a functional website that can take on more of the registration process, while enhancing and refining various other aspects of the existing YCPHacks functionality.
 
