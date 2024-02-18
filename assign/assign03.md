@@ -65,7 +65,7 @@ If you need additional software and/or hardware for your project, please identif
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 
-## But wait, there is more (
+## But Wait, There is (MUCH) More (Requirements, Design, Schedule)
 
 You will also need to provide a detailed list of requirements for this semester, as well as how the implementation of those requirements will impact the existing design - refactoring, redesigns, deletions, new features, etc.
 
