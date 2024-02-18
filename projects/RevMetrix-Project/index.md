@@ -6,28 +6,55 @@ title: CS Capstone II (RevMetrix Project)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS400: CS Capstone I (RevMetrix Project)
+## CS402: CS Capstone II (RevMetrix Project)
 
-## Fall 2023
+## Spring 2024
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-This is the web page for the RevMetrix Project for CS 400 Fall 2023 at [York College of Pennsylvania](http://www.ycp.edu).  All information specifically related to the RevMetrix Project will be posted here.
+This is the web page for the RevMetrix Project for CS402 Spring 2024 at [York College of Pennsylvania](http://www.ycp.edu).  All information specifically related to the RevMetrix Project will be posted here.
 
 ## Links
 
 * [CS400-Fa23 Website](../../index.html)
 * [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
+* [RevMetrix Project Wiki](https://docs.revmetrix.io)
+* [RevMetrix Research](https://research.revmetrix.io)
 
 ## RevMetrix Project Description
 
+You will be continuing development of the RevMetrix Project, building upon the initial accomplishments from the [RevMetrix Project Capstone I (CS400) Team from Fall 2023](https://ycpcs.github.io/cs400-fall2023/RevMetrix-Project).
 
-* Here is the description for the [RevMetrix Bowler UI Requirements](RevMetrix.html).  It does **NOT** cover the Research User Interface.
+Your basic goals for the semester are to:
 
-* Here is a [Prototype Shot Entry Page](RevMetrix-Bowler-UI-Shot-Entry.html) to give you a basic idea of user workflow and functionality.  This is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  it should however, give you an idea of how the user will enter the results for each shot.
+>	Develop a functional RevMetrix **Bowler** User Interface (RMxB-UI) that allows for bowler input to be collected, stored, retrieved, and displayed, utilizing the RevMetrix User Back-End Database (RMxB-DB). The RMxB-UI is a multi-platform phone application.  If the cross-platform development tools support it, a Windows PC version of the RMxB-UI application would also be useful (but not a high priority).
 
-Here are links to the previous research that Professor Hake conducted as part of his Master's Theses.
+Here is the description for the [RevMetrix Bowler UI Requirements](RevMetrix.html).  It does **NOT** cover the Research User Interface.
+
+* Here is a [Prototype Shot Entry Page](RevMetrix-Bowler-UI-Shot-Entry.html) to give you a basic idea of user workflow and functionality.  This is a prototype.  It is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  It should however, give you an idea of how the user will enter the results for each shot.
+
+>	Develop a similar functional RevMetrix **Research** User Interface (RmxR-UI) that allows for research data input to be collected, stored, retrieved, and displayed, utilizing the RevMetrix Research Back-End Database (RMxR-DB). The RMxR-UI will be a Windows laptop touchscreen application.  The data stored in the RMxR-DB will be a superset of the data stored in the RMxB-DB.
+
+>	Continue development of the RevMetrix Back-End, including both databases (RMxB-UI and RMxR-UI).
+
+>	Continue development and maintenance of the RevMetrix Wiki, including accurate and detailed instructions on how to set up all of the various development environments, and the various deployments to Digital Ocean.
+
+>	Continue development on the Unity Simulator that is intended to generate animated ball paths that can be used to create known video frame and ball path data for use by Ciclopes.
+
+>	Develop automated algorithms for frame-by-frame video processing of the Unity Simulation animation to extract the lane boundaries and ball locations within those boundaries.  Confirm the accuracy of the above algorithms by comparing their output with the Unity Simulation data that generated the frames for the animation.
+real video and start to modify, as necessary.
+
+>	Test the applicability of the above Ciclopes algorithms on real bowler video, using similar camera angles as were used on the Unity animations.
+
+>	Develop algorithms that will extract relevant ball path and velocity data from the frame-by-frame analysis of the video, after transforming the lane boundaries and the ball location within each frame into a collection of normalized rectilinear frames.
+
+>	Refine the Ciclopes algorithms above to work reliably with real bowler video.
+
+>	Continue to develop BLE (Bluetooth Low-Energy) connectivity between BLE sensor hardware (3-axis accelerometer, 3-axis gyroscope, ambient light sensor) and a phone application so that the BLE sensor suite can upload live data to a phone application.
+
+
+Here are links to the previous research that Professor Hake conducted as part of his Master's Theses:
 
 [RevMetrix MEng ESci Thesis](Hake-MEngESci-Masters-Thesis.pdf)
 
@@ -60,19 +87,9 @@ Here is a set of raw data from an actual bowling session.  There are two version
 
 * 9-29-22: Assignment 5 (Minimal Working System) is due 11:00am, Monday, 10-24-22, with presentation and demo during class
 
-* 9-29-22: Assignment 4 (Analysis & Design) has been moved to 11:00am, Wednesday, 10-5-22, with presentation during class
-
-* 9-19-22: Assignment 3 (Requirements) is due by 11:00am, Monday, 9-26-22, with presentation during class
-
-* 9-19-22: Assignment 2 (Weekly Journals) are now due every Monday by 11:00am (prior to class), with a summary presentation in class on the days that do not already have another assignment due
-
-* 8-27-22: Assignment 1 (Readiness Demo) is due by 11:00am, Friday, 9-16-22, with presentation during class
-
-* 8-27-22: Assignment 1 (Project Proposal) is due by 11:00am, Friday, 9-9-22, with presentation during class
-
 -->
 
-* 2-16-24: Posted a link to a JavaScript prototype of the Shot Entry Page to give you a basic idea of user workflow and functionality.  This is **by no means** quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  it should however, give you an idea of how the user will enter the results for each shot.
+* 2-16-24: Posted a link to a JavaScript prototype of the Shot Entry Page to give you a basic idea of user workflow and functionality.  This is a prototype.  It is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  It should however, give you an idea of how the user will enter the results for each shot.
 
 * 2-16-24: Posted a link to the RevMetrix Bowler User Interface Requirements.
 
