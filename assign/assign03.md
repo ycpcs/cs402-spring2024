@@ -65,11 +65,15 @@ If you need additional software and/or hardware for your project, please identif
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 
-## But wait, there is more
+## But wait, there is more (
 
 You will also need to provide a detailed list of requirements for this semester, as well as how the implementation of those requirements will impact the existing design - refactoring, redesigns, deletions, new features, etc.
 
-You will also need to provide a schedule for development and deployment.  There will require a spring schedule for each of the tasks and a GANTT chart that shows the timing of the parellel development of the various tasks, as well as illustrates the critical path for the components of the system that interact with each other.  You will use this GANTT chart to determine development priorities and allocation of "resources" - people.
+You will also need to provide a schedule for development and deployment.  This will require a schedule for each of the tasks and a GANTT chart that shows the timing of the parellel development of the various tasks, as well as illustrates the critical path for the components of the system that interact with each other (dependencies).  You will use this GANTT chart to determine development priorities and allocation of "resources" - people.
+
+## Presentation
+
+You will present your Detailed Project Proposal, Design, and Schedule in class on the day it is due during your project's assigned weekly stand-up/presentation period.
 
 # Grading
 
@@ -101,4 +105,4 @@ Grading is TBD as this point
 
 # Submitting
 
-To submit, place your Detaile Proposal and Design document in the team's shared Google doc folder.
+To submit, place your Detailed Proposal, Design, and Schedule document in the team's shared Google doc folder.
