@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS402
-title: Milestone 1 Presention and Demo (Mid-Term Peer Evals)
+title: Milestone 1 Presentation and Demo (Mid-Term Peer Evals)
 ---
 
 **Due (see your project schedule):**
