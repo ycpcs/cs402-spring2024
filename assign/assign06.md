@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS402
-title: Capstone Expo
+title: Capstone Expo Presentation
 ---
 
 **Due (see your project schedule):**

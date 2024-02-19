@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS400
-title: Final Report Details
+title: Final Technical Report
 ---
 
 **Due (see your project schedule):**

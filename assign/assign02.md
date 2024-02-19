@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS402
-title: Weekly Journals, Stand-Up Meetings, and Demos
+title: Weekly Journals, Stand-Up Meetings, Demos
 ---
 
 **Due (see your project schedule):**

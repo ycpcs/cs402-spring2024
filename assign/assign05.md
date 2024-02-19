@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS402
-title: Milestone 2 Presentation and Demo
+title: Milestone 2 Presentation
 ---
 
 **Due (see your project schedule):**
